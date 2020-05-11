@@ -1,6 +1,8 @@
 # RNA-Seq
 Analysis of RNA-Seq data using PCA and GSVA
 
+**This was given as an assignment to me from Elucidata (India)**
+
 ## Introduction
 Pancreatic Adenocarcinoma (PAAD) is the third most common cause of death from cancer, with an overall 5-year survival rate of less than 5%, and is predicted to become the second leading cause of cancer mortality in the United States by 2030.
 
